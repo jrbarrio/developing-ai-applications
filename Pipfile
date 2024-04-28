@@ -30,6 +30,7 @@ torch = {version = "*", index = ""}
 torchvision = {version = "*", index = ""}
 torchaudio = {version = "*", index = ""}
 torchtext = {version = "*", index = ""}
+huggingface-hub = "*"
 
 [dev-packages]
 
