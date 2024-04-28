@@ -1,0 +1,37 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
+[[source]]
+url = "pytorch"
+verify_ssl = true
+name = ""
+
+[packages]
+transformers = "*"
+datasets = "*"
+torch = {version = "*", index = ""}
+torchvision = {version = "*", index = ""}
+torchaudio = {version = "*", index = ""}
+torchtext = {version = "*", index = ""}
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
