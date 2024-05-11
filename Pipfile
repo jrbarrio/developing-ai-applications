@@ -36,6 +36,8 @@ pillow = "*"
 matplotlib = "*"
 sentencepiece = "*"
 protobuf = "*"
+librosa = "*"
+soundfile = "*"
 
 [dev-packages]
 

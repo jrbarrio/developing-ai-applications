@@ -10,4 +10,6 @@ pipenv install pillow
 pipenv install matplotlib
 pipenv install sentencepiece
 pipenv install protobuf
+pipenv install librosa
+pipenv install soundfile
 ```
