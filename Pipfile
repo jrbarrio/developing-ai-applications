@@ -34,6 +34,8 @@ huggingface-hub = "*"
 numpy = "*"
 pillow = "*"
 matplotlib = "*"
+sentencepiece = "*"
+protobuf = "*"
 
 [dev-packages]
 

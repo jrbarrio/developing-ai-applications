@@ -8,4 +8,6 @@ pipenv install huggingface_hub
 pipenv install numpy
 pipenv install pillow
 pipenv install matplotlib
+pipenv install sentencepiece
+pipenv install protobuf
 ```
