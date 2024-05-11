@@ -5,4 +5,7 @@ pip install pipenv
 pipenv install transformers datasets
 pipenv install torch torchvision torchaudio torchtext --index=pytorch
 pipenv install huggingface_hub
+pipenv install numpy
+pipenv install pillow
+pipenv install matplotlib
 ```

@@ -31,6 +31,9 @@ torchvision = {version = "*", index = ""}
 torchaudio = {version = "*", index = ""}
 torchtext = {version = "*", index = ""}
 huggingface-hub = "*"
+numpy = "*"
+pillow = "*"
+matplotlib = "*"
 
 [dev-packages]
 
