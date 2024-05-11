@@ -12,4 +12,7 @@ pipenv install sentencepiece
 pipenv install protobuf
 pipenv install librosa
 pipenv install soundfile
+pipenv install evaluate
+pipenv install jiwer
+pipenv install pandas
 ```

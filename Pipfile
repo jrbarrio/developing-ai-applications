@@ -38,6 +38,9 @@ sentencepiece = "*"
 protobuf = "*"
 librosa = "*"
 soundfile = "*"
+evaluate = "*"
+jiwer = "*"
+pandas = "*"
 
 [dev-packages]
 
