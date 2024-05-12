@@ -15,4 +15,5 @@ pipenv install soundfile
 pipenv install evaluate
 pipenv install jiwer
 pipenv install pandas
+pipenv install accelerate
 ```

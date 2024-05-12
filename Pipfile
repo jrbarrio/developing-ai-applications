@@ -41,6 +41,7 @@ soundfile = "*"
 evaluate = "*"
 jiwer = "*"
 pandas = "*"
+accelerate = "*"
 
 [dev-packages]
 
