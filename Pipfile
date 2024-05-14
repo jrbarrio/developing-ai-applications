@@ -42,6 +42,7 @@ evaluate = "*"
 jiwer = "*"
 pandas = "*"
 accelerate = "*"
+sentence-transformers = "*"
 
 [dev-packages]
 

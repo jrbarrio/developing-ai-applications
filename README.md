@@ -16,4 +16,5 @@ pipenv install evaluate
 pipenv install jiwer
 pipenv install pandas
 pipenv install accelerate
+pipenv install sentence_transformers
 ```
