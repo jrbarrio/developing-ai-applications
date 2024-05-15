@@ -2,3 +2,5 @@ models/
 .results/
 
 .env
+
+chroma/
