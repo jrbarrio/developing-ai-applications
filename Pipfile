@@ -43,6 +43,13 @@ jiwer = "*"
 pandas = "*"
 accelerate = "*"
 sentence-transformers = "*"
+openai = "*"
+python-dotenv = "*"
+jupyter = "*"
+scikit-learn = "*"
+scipy = "*"
+chromadb = "*"
+tiktoken = "*"
 
 [dev-packages]
 
