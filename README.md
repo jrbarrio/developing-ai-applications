@@ -24,4 +24,6 @@ pipenv install jiwer
 pipenv install pandas
 pipenv install accelerate
 pipenv install sentence_transformers
+pipenv install langchain_community
+pipenv install langchain_openai
 ```
