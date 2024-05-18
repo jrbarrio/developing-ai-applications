@@ -30,4 +30,6 @@ pipenv install langchain_openai
 pipenv install langchain
 pipenv install pypdf
 pipenv install unstructured
+pipenv install numexpr
+pipenv install langchainhub
 ```
