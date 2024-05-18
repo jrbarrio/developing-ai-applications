@@ -55,6 +55,7 @@ langchain = "*"
 langchain-huggingface = "*"
 langchain-community = "*"
 pypdf = "*"
+unstructured = "*"
 
 [dev-packages]
 
