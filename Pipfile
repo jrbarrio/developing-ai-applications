@@ -50,9 +50,10 @@ scikit-learn = "*"
 scipy = "*"
 chromadb = "*"
 tiktoken = "*"
-langchain-community = "*"
 langchain-openai = "*"
 langchain = "*"
+langchain-huggingface = "*"
+langchain-community = "*"
 
 [dev-packages]
 
