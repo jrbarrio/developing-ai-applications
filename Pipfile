@@ -54,6 +54,7 @@ langchain-openai = "*"
 langchain = "*"
 langchain-huggingface = "*"
 langchain-community = "*"
+pypdf = "*"
 
 [dev-packages]
 

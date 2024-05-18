@@ -28,4 +28,5 @@ pipenv install langchain_community
 pipenv install langchain_huggingface
 pipenv install langchain_openai
 pipenv install langchain
+pipenv install pypdf
 ```
