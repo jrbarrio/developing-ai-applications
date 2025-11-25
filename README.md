@@ -1,3 +1,5 @@
+https://app.datacamp.com/learn/skill-tracks/developing-ai-applications
+
 ```
 pyenv virtualenv 3.11.7 developing-ai-applications
 echo "developing-ai-applications" > .python-version
