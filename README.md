@@ -34,4 +34,5 @@ pipenv install pypdf
 pipenv install unstructured
 pipenv install numexpr
 pipenv install langchainhub
+pipenv install tenacity
 ```

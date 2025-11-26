@@ -58,6 +58,7 @@ pypdf = "*"
 unstructured = "*"
 numexpr = "*"
 langchainhub = "*"
+tenacity = "*"
 
 [dev-packages]
 
